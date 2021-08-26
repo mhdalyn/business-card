@@ -3,19 +3,23 @@ body{
     font-family: sans-serif;
     color: brown;
     margin: auto;
+        text-align: center;
 }
+
 header{
     background-color: moccasin;
 }
+
 section {
     width: 50%;
     margin: auto;
 }
+
 h1, h2, h3, nav {
-    text-align: center;
     padding: 15px;
     font-family: monospace;
 }
+
 img {
     display: block;
     margin-left: auto;
@@ -23,19 +27,25 @@ img {
     width:50%;
     padding: 10px;
 }
+/*font sizing properties for each tag*/
 h1 {
     font-size: 40px;
 }
+
 h2 {
     font-size: 20px;
 }
+
 h3 {
     font-size: 30px;
 }
+
 nav {
     font-size: 20px;
     padding: 10px;
 }
+
+/*footer padded to make create space between links and bottom of page*/
 footer {
     height: 100px;
     background-color:bisque
