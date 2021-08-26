@@ -59,7 +59,7 @@ ul,ol {
     list-style-position: inside;
 }
 /*Hyperlink pseudo-class alterations*/
-a:link {color: chocolate;}
-a:visited {color: orangered;}
-a:hover {color: coral;}
-a:active {color: crimson;}
+a:link {color: darkseagreen;}
+a:visited {color: darkgreen;}
+a:hover {color: limegreen;}
+a:active {color: lime;}
