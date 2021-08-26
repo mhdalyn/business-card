@@ -1,13 +1,55 @@
+body{
+    background-color: peachpuff;
+    font-family: sans-serif;
+    color: brown;
+    margin: auto;
+}
+header{
+    background-color: moccasin;
+}
+section {
+    width: 50%;
+    margin: auto;
+}
 h1, h2, h3, nav {
     text-align: center;
+    padding: 15px;
+    font-family: monospace;
 }
-body{
-    margin: auto;
-    width: 50%
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    padding: 10px;
 }
-
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 30px;
+}
+nav {
+    font-size: 20px;
+    padding: 10px;
+}
+footer {
+    height: 100px;
+    background-color:bisque
+}
+hr {
+    border: 3px solid chocolate;
+    border-radius: 5px;
+    width: 60%;
+}
+ul,ol {
+    list-style-position: inside;
+}
 /*Hyperlink pseudo-class alterations*/
-a:active {}
-a:hover {}
-a:visited {}
-a:default {}
+a:link {color: chocolate;}
+a:visited {color: orangered;}
+a:hover {color: coral;}
+a:active {color: crimson;}
