@@ -58,8 +58,9 @@ hr {
 ul,ol {
     list-style-position: inside;
 }
+a {font-weight: bold}
 /*Hyperlink pseudo-class alterations*/
-a:link {color: darkseagreen;}
+a:link {color: forestgreen;}
 a:visited {color: darkgreen;}
 a:hover {color: limegreen;}
 a:active {color: lime;}
