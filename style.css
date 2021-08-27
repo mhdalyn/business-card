@@ -60,7 +60,7 @@ ul,ol {
 }
 a {font-weight: bold}
 /*Hyperlink pseudo-class alterations*/
-a:link {color: forestgreen;}
-a:visited {color: darkgreen;}
+a:link {color: darkgreen;}
+a:visited {color: darkolivegreen;}
 a:hover {color: limegreen;}
 a:active {color: lime;}
