@@ -1,5 +1,5 @@
 body{
-    background-color: blanchedalmond;
+    background-color: beige;
     font-family: sans-serif;
     color: brown;
     margin: auto;
@@ -60,7 +60,7 @@ ul,ol {
 }
 a {font-weight: bold}
 /*Hyperlink pseudo-class alterations*/
-a:link {color: darkgreen;}
-a:visited {color: darkolivegreen;}
-a:hover {color: limegreen;}
-a:active {color: lime;}
+a:link {color: firebrick;}
+a:visited {color: darkred;}
+a:hover {color: red;}
+a:active {color: indianred;}
